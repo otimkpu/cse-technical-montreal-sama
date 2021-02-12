@@ -1,4 +1,4 @@
-# Sama Customer Success/Solutions Engineering Excercise
+# Sama Customer Success/Solutions Engineering Exercise
 
 At Samasource we provide [training data](https://www.samasource.com/blog/2017/12/18/what-is-training-data) for computer vision models.  Whether we're dealing with [image annotation applications](https://www.samasource.com/blog/2018/12/04/training-your-ai-in-3d), metrics to benchmark how well our services are performed, or tools to help integrate customer data pipelines, reporting and working  with images is part of our DNA.  
 
