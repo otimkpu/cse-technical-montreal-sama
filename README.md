@@ -17,7 +17,9 @@ Given the python script and 1 sample corrupt image (indexed_5d5da9038aa716043cb7
 
 ## Clone this repository and share it with abha2.  Please include a README that explains how to clone and run your solution.
 1.) On the main page of the repository I clicked on **Code** and cloned using the **Download ZIP** option.
+
 2.) Once I completed the challenge I initialized git by running git init and added all the files while excluding the .idea folder in the .gitignore file.
+
 3.) I then created a new repository on my account and copied the remote repositiory URL and added it as the remote origin by running the following commands
 ```
 git remote add origin https://github.com/otimkpu/cse-technical-montreal-sama.git
